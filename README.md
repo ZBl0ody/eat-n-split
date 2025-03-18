@@ -31,13 +31,13 @@ The main components of the application include:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ZBl0ody/eat-n-split
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd ultimate-react-course-main/06-eat-n-split/starter
+   cd eat-n-split
    ```
 
 3. Install dependencies:
