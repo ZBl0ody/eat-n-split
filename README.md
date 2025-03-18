@@ -67,7 +67,7 @@ The application will be available at `http://localhost:3000`.
 
 Below is a screenshot of the application:
 
-![Eat-n-Split Screenshot](./public/screenshot.png)
+![Eat-n-Split Screenshot](./public/screenshot.jpg)
 
 > **Note**: Replace `screenshot.png` with an actual screenshot of your application. Save the screenshot in the `public` folder of your project.
 
